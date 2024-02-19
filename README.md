@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on reproducibility, applicability and generalizability of simulation studies
+- 🌱 I’m currently learning how to let GitHub Copilot do the work for me
+- 😄 Pronouns: she/her
+- 📫 How to reach me: anna.lohmann@eah-jena.de
+    - Warning I might take a while to reply.
 <!--
 **annloh/annloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
